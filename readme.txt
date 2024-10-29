@@ -1,5 +1,5 @@
 PGES Detection Tool
-  This repository contains the code for the Postictal Generalized EEG Suppression (PGES) detection tool. Due to the large size of the pipeline file and training data, these files cannot be uploaded to GitHub. Please contact the author for access to these files.
+  This repository contains the code for the Postictal Generalized EEG Suppression (PGES) detection tool. Due to the large size of the executable pipeline file and training data, these files cannot be uploaded to GitHub. Please contact the author for access to these files.
 
 Prerequisites
   To utilize the PGES detection tool, please ensure you have the following:
