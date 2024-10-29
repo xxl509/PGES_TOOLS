@@ -6,8 +6,8 @@ Prerequisites
 
 
 Setup Instructions
-  1. Download Files: Contact the author to obtain the pipeline and training_data.npy files.
-  2. Directory Structure: Ensure that the pipeline folder and training_data.npy are located in the same directory.
+  1. Download Files: Contact the author to obtain the pipeline and training_data.npy files. (Or Install conda, establish a conda environment by executing the command "conda env create -f environment.yml")
+  2. Directory Structure: Ensure that the pipeline file and training_data.npy are located in the same directory.
   3. File Naming Convention: Maintain the specified naming convention for your signal CSV files, e.g., 001_post_ictal_eeg_1024Hz.csv.
 
 Usage
